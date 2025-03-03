@@ -13,7 +13,7 @@ function App() {
 
       <header>
         <div>
-            <img src="./public/img/AFA.png" alt="AFA-Logo" />
+            <img src="/img/AFA.png" alt="AFA-Logo" />
             <h2>AFA動漫網</h2>
         </div>
         
@@ -39,7 +39,7 @@ function App() {
     <article>
         <div className="va-information">
             <div className="actor">
-                <img src="./public/img/岡本信彥.png" alt="" className="actor-img" width="250px" height="250px" />
+                <img src="/img/岡本信彥.png" alt="" className="actor-img" width="250px" height="250px" />
             </div>
 
             <div className="introduction">
@@ -100,7 +100,7 @@ function App() {
             <div className="role-card">
                 <div className="card">
                     <div className="card-img">
-                        <a href="./myhero.html"><img src="./public/img/爆豪勝己.png" alt="爆豪勝己" /></a>
+                        <a href="./myhero.html"><img src="/img/爆豪勝己.png" alt="爆豪勝己" /></a>
                     </div>
                     <div className="card-text">
                         <h2>爆豪勝己</h2>
@@ -108,7 +108,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href="./volley.html"><img src="./public/img/西谷夕.png" alt="西谷夕" /></a>
+                        <a href="./volley.html"><img src="/img/西谷夕.png" alt="西谷夕" /></a>
                     </div>
                     <div className="card-text">
                         <h2>西谷夕</h2>
@@ -132,7 +132,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/不死川玄彌.png" alt="不死川玄彌" /></a>
+                        <a href=""><img src="/img/不死川玄彌.png" alt="不死川玄彌" /></a>
                     </div>
                     <div className="card-text">
                         <h2>不死川玄彌</h2>
@@ -143,7 +143,7 @@ function App() {
             <div className="role-card">
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/一方通行.png" alt="一方通行" /></a>
+                        <a href=""><img src="/img/一方通行.png" alt="一方通行" /></a>
                     </div>
                     <div className="card-text">
                         <h2>一方通行</h2>
@@ -151,7 +151,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/仙石翔.png" alt="仙石翔" /></a>
+                        <a href=""><img src="/img/仙石翔.png" alt="仙石翔" /></a>
                     </div>
                     <div className="card-text">
                         <h2>仙石翔</h2>
@@ -159,7 +159,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/札克.png" alt="札克" /></a>
+                        <a href=""><img src="/img/札克.png" alt="札克" /></a>
                     </div>
                     <div className="card-text">
                         <h2>札克</h2>
@@ -167,7 +167,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/梶蓮.png" alt="梶蓮" /></a>
+                        <a href=""><img src="/img/梶蓮.png" alt="梶蓮" /></a>
                     </div>
                     <div className="card-text">
                         <h2>梶蓮</h2>
@@ -175,7 +175,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/樫野真.png" alt="樫野真" /></a>
+                        <a href=""><img src="/img/樫野真.png" alt="樫野真" /></a>
                     </div>
                     <div className="card-text">
                         <h2>樫野真</h2>
@@ -186,7 +186,7 @@ function App() {
             <div className="role-card">
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/武藏.png" alt="武藏" /></a>
+                        <a href=""><img src="/img/武藏.png" alt="武藏" /></a>
                     </div>
                     <div className="card-text">
                         <h2>武藏</h2>
@@ -194,7 +194,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/瑞希.png" alt="瑞希" /></a>
+                        <a href=""><img src="/img/瑞希.png" alt="瑞希" /></a>
                     </div>
                     <div className="card-text">
                         <h2>瑞希</h2>
@@ -202,7 +202,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/碓冰拓海.png" alt="碓冰拓海" /></a>
+                        <a href=""><img src="/img/碓冰拓海.png" alt="碓冰拓海" /></a>
                     </div>
                     <div className="card-text">
                         <h2>碓冰拓海</h2>
@@ -218,7 +218,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/音無伊御.png" alt="音無伊御" /></a>
+                        <a href=""><img src="/img/音無伊御.png" alt="音無伊御" /></a>
                     </div>
                     <div className="card-text">
                         <h2>音無伊御</h2>
