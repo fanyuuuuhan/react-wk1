@@ -116,7 +116,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/欣梅爾.png" alt="欣梅爾" /></a>
+                        <a href=""><img src="/img/欣梅爾.png" alt="欣梅爾" /></a>
                     </div>
                     <div className="card-text">
                         <h2>欣梅爾</h2>
@@ -124,7 +124,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/赤羽業.png" alt="赤羽業" /></a>
+                        <a href=""><img src="/img/赤羽業.png" alt="赤羽業" /></a>
                     </div>
                     <div className="card-text">
                         <h2>赤羽業</h2>
@@ -210,7 +210,7 @@ function App() {
                 </div>
                 <div className="card">
                     <div className="card-img">
-                        <a href=""><img src="./public/img/足立翔.png" alt="足立翔" /></a>
+                        <a href=""><img src="/img/足立翔.png" alt="足立翔" /></a>
                     </div>
                     <div className="card-text">
                         <h2>足立翔</h2>
